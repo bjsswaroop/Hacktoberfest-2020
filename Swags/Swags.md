@@ -7,3 +7,4 @@
 * [Awesome-hacktoberfest-2019](https://github.com/OtacilioN/awesome-hacktoberfest-2019)
 
 * [Up for Grabs](https://up-for-grabs.net/#/)
+* if u want to know about swag list of this event then visit [Hacktoberfest-swag] (https://hacktoberfestswaglist.com/)
